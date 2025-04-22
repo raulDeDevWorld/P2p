@@ -109,7 +109,7 @@ const Footer: React.FC = () => {
         <div className="mt-8 pt-6 border-t border-gray-800 text-center">
           <p>&copy; {new Date().getFullYear()} P2P Trade. All rights reserved.</p>
           <p className="mt-2 text-sm">
-            This is a demo application. Not intended for real transactions.
+            
           </p>
         </div>
       </div>
